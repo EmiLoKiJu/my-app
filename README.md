@@ -25,7 +25,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Group Capstone PROJECT] <a name="about-project"></a>
+# 📖 [CALCULATOR] <a name="about-project"></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -41,7 +41,7 @@ React
 
 ### Key Features <a name="key-features"></a>
 
-- **Just a single image animated. Future features are comming**
+- **Just a single image of a calculator**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,7 +131,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### Walkthrough
 
-Admire the image rotating
+Admire the calculator
 
 <!-- CONTRIBUTING -->
 
