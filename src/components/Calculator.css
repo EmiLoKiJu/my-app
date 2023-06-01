@@ -1,0 +1,41 @@
+.grid4x6 {
+  display: grid;
+  grid-template-columns: repeat(4, 25%);
+  grid-template-rows: repeat(6, 50px);
+}
+
+.griditem {
+  border: 1px solid gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.softgray {
+  background-color: rgb(224, 224, 224);
+}
+
+.weirdorange {
+  background-color: rgb(243, 145, 72);
+}
+
+.weirdgray {
+  background-color: rgb(133, 134, 147);
+  color: white;
+}
+
+.griditem2 {
+  border: 1px solid gray;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 8px;
+}
+
+.span2col {
+  grid-column: span 2;
+}
+
+.span4col {
+  grid-column: span 4;
+}
