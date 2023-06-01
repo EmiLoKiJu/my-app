@@ -23,7 +23,7 @@ const Display = ({ inputs, whoChanged }) => {
 
 Display.propTypes = {
   inputs: PropTypes.shape({
-    total: PropTypes.string,
+    total: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
     next: PropTypes.string,
     operation: PropTypes.string,
   }).isRequired,
