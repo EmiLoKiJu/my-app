@@ -17,9 +17,6 @@ const Display = ({ inputs, whoChanged }) => {
   return (
     <div className="span4col griditem2 weirdgray">
       {finaloutput}
-      {/* {whoChanged.total.toString()}
-      {whoChanged.operation.toString()}
-      {whoChanged.next.toString()} */}
     </div>
   );
 };
