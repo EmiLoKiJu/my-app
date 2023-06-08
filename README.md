@@ -10,6 +10,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
+  - [Live Demo](#live-demo)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
@@ -48,6 +49,10 @@ React
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
+### Live Demo
+
+Feel free to explore our website here: [link](https://calculator-cwhh.onrender.com/)
 
 ### Prerequisites
 
