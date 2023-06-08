@@ -38,12 +38,12 @@ const ApiNinja = () => {
   }
 
   return (
-    <h2 className={`quote ${data.quote === 'LOADING' ? 'loading' : ''}`}>
+    <div>
       {data.quote}
       <br />
       <br />
       {data.author}
-    </h2>
+    </div>
   );
 };
 
