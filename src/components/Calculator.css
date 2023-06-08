@@ -15,8 +15,24 @@
   background-color: rgb(224, 224, 224);
 }
 
+.softgray:hover {
+  background-color: rgb(190, 190, 190);
+}
+
+.softgray:active {
+  background-color: rgb(160, 160, 160);
+}
+
 .weirdorange {
   background-color: rgb(243, 145, 72);
+}
+
+.weirdorange:hover {
+  background-color: rgb(210, 120, 50);
+}
+
+.weirdorange:active {
+  background-color: rgb(180, 100, 40);
 }
 
 .weirdgray {
